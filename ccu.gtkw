@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Jan 04 16:22:56 2023
+[*]
+[dumpfile] "C:\Users\alperen\Documents\GitHub\bbm233_fall2022\FinalProject\code\combat_control_unit_result.vcd"
+[dumpfile_mtime] "Wed Jan 04 16:11:23 2023"
+[dumpfile_size] 7378
+[savefile] "C:\Users\alperen\Documents\GitHub\bbm233_fall2022\FinalProject\code\ccu.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -9 -9
+*-17.154341 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] kizilelma_tb.
+[sst_width] 197
+[signals_width] 300
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@24
+kizilelma_tb.clk
+kizilelma_tb.rst
+kizilelma_tb.track_target_command
+@28
+kizilelma_tb.uut.radar_echo
+@24
+kizilelma_tb.fire_command
+kizilelma_tb.trigger_radar_transmitter
+kizilelma_tb.distance_to_target[13:0]
+kizilelma_tb.launch_missile
+kizilelma_tb.remaining_missiles[3:0]
+kizilelma_tb.TTU_state[1:0]
+kizilelma_tb.WCU_state[1:0]
+[pattern_trace] 1
+[pattern_trace] 0

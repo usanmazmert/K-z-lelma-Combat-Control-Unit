@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Jan 03 20:07:59 2023
+[*]
+[dumpfile] "C:\Users\alperen\Documents\GitHub\bbm233_fall2022\FinalProject\code\weapons_control_unit_result.vcd"
+[dumpfile_mtime] "Tue Jan 03 20:07:16 2023"
+[dumpfile_size] 1789
+[savefile] "C:\Users\alperen\Documents\GitHub\bbm233_fall2022\FinalProject\code\wcu.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -165 -165
+*-14.800501 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 42
+[signals_width] 214
+[sst_expanded] 0
+[sst_vpaned_height] 300
+@28
+weapons_control_unit_tb.clk
+weapons_control_unit_tb.rst
+weapons_control_unit_tb.target_locked
+weapons_control_unit_tb.fire_command
+weapons_control_unit_tb.launch_missile
+@24
+weapons_control_unit_tb.remaining_missiles[3:0]
+weapons_control_unit_tb.WCU_state[1:0]
+[pattern_trace] 1
+[pattern_trace] 0

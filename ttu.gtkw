@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Jan 03 18:07:20 2023
+[*]
+[dumpfile] "C:\Users\alperen\Documents\GitHub\bbm233_fall2022\FinalProject\code\target_tracking_unit_result.vcd"
+[dumpfile_mtime] "Tue Jan 03 18:06:56 2023"
+[dumpfile_size] 5427
+[savefile] "C:\Users\alperen\Documents\GitHub\bbm233_fall2022\FinalProject\code\ttu.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -1 -1
+*-17.009930 16000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 42
+[signals_width] 253
+[sst_expanded] 0
+[sst_vpaned_height] 300
+@28
+target_tracking_unit_tb.clk
+target_tracking_unit_tb.rst
+target_tracking_unit_tb.track_target_command
+target_tracking_unit_tb.echo
+target_tracking_unit_tb.trigger_radar_transmitter
+@24
+target_tracking_unit_tb.distance_to_target[13:0]
+@28
+target_tracking_unit_tb.target_locked
+@24
+target_tracking_unit_tb.TTU_state[1:0]
+[pattern_trace] 1
+[pattern_trace] 0
